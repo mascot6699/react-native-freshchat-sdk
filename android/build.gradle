@@ -39,4 +39,5 @@ dependencies {
     compile "com.facebook.react:react-native:+"
     compile 'com.google.android.gms:play-services-gcm:11.+'
     compile 'com.github.freshdesk:freshchat-android:3.6.0'
+    compile 'androidx.annotation:annotation:1.0.0'
 }
